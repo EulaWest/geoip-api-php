@@ -1,1 +1,2 @@
-*.php diff=php
+*.php*diff=php
+*
